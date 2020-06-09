@@ -1,6 +1,0 @@
-[submodule "NLW"]
-	path = NLW
-	url = https://github.com/jlzimmerhansl/NLW.git
-[submodule "NLW_Mobile"]
-	path = NLW_Mobile
-	url = https://github.com/jlzimmerhansl/NLW_Mobile.git
