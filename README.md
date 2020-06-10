@@ -41,8 +41,8 @@ $ https://github.com/jlzimmerhansl/NLW--01
 ## :fire: executando a aplicação
 
 **Pré-Requisito**
-* É necessário possuir o [Node.js] [url-node] instalado na máquina.
-* É necessário possui um gerenciador de pacotes, podendo ser: [NPM] [url-npm] ou [YARN][url-yarn]
+* É necessário possuir o [Node.js][url-node] instalado na máquina.
+* É necessário possui um gerenciador de pacotes, podendo ser: [NPM][url-npm] ou [YARN][url-yarn]
 
 **Executando a aplicação**
 ```bash
